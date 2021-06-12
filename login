@@ -8,7 +8,7 @@ echo "
   
 
 
-echo "  Made by RAMJEE with love ------- SUBSCRIBE my channel teluguhackerscommunity
+echo "  Made by ARIJ ARMAN with love ------- SUBSCRIBE my channel TECH KNOW LINUX
 
               ██╗  ██╗ █████╗  █████╗ ██╗  ██╗███████╗██████╗
               ██║  ██║██╔══██╗██╔══██╗██║ ██╔╝██╔════╝██╔══██╗
@@ -18,7 +18,7 @@ echo "  Made by RAMJEE with love ------- SUBSCRIBE my channel teluguhackerscommu
               ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
                                                         "|lolcat
 
-echo " CREATOR is RAMJEE with your love... 
+echo " CREATOR is ARIJ ARMAN with your love... 
      ━━━━━━━━━━━━━━━━━━━━━━━━━ [★] W E L C O M E [★] ━━━━━━━━━━━━━━━━━━━━━━━━
 
                               " |lolcat
