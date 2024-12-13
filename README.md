@@ -59,6 +59,7 @@ $ bash remove-login.sh
 ### Development by RAMJEE
 ### Keep connected for hacking tools, Thank you.
 ### Subscribe my channel for hacking tutorials, TELUGUHACKERSCOMMUNITY YOUTUBE CHANNEL
+
 Subject: New Process for VAPT Requests via Insight Portal
 
 Dear VAPT Team,
@@ -71,10 +72,19 @@ Moving forward, we will be implementing a new standardized process for handling 
 	•	The ticket should be logged under the tracker named IVAPT.
 	2.	Ticket Assignment:
 	•	Once the ticket is raised, it should be assigned to the VAPT team for further processing.
+	3.	Maintain a Single Email Chain:
+	•	Ensure that all communication related to the request is maintained within a single email chain.
+	•	This will help us track the request easily and serve as a reference for any changes or implementation updates.
+	•	Additionally, it will act as evidence for future audits or reviews.
 
 This process will help us streamline and track all VAPT requests efficiently, ensuring proper documentation and accountability. Kindly adhere to this standalone process starting immediately.
 
 If you have any questions or require further clarification, please do not hesitate to reach out.
+
+Best regards,
+[Your Name]
+[Your Designation]
+Bharat Cyber Solutions
 
 Best regards,
 [Your Name]
